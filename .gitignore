@@ -1,2 +1,2 @@
-variables.tf
+./variables.tf
 authorized_key.json
